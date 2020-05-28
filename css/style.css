@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.pesquisa{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+#nome {
+    width: 800px;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+#btnBuscar{
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.coluna1, .coluna2, .coluna3, .coluna4{    
+    display: flexbox;
+    float: left;
+    margin-top: 70px;
+    margin-left: 200px;
+    font-size: 20px;
+}
